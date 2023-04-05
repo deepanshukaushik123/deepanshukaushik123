@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deepanshukaushik123
+- 👋 Hi, I’m @deepanshu kaushik
 - 👀 I’m interested in ... Mobile app development and Web Development
-- 🌱 I’m currently learning ... ReactJS
+- 🌱 I’m currently learning ... Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail at:- deepanshukaushik123@gmail.com
 
